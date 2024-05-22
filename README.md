@@ -2,7 +2,7 @@
 
 - here is a project about computers using html and css codes.
 
-## feautres
+## features
 - computer images
 - table
 - footer
